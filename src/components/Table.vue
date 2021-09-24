@@ -34,7 +34,6 @@ export default {
             type: Array,
             required: true,
         },
-        index: Number,
     },
     methods: {
         onClick(name, index) {
