@@ -1,4 +1,4 @@
-# vue
+# vue-tables
 move table rows between tables by click
 
 For work, 
